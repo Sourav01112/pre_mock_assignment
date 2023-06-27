@@ -1,0 +1,15 @@
+{
+  "name": "pre_mock_assignment",
+  "description": "- Read entire question carefully for at-least 15 mins, understand it and then code it.\r - Don’t jump directly into code.\r - Commit your code every hour with proper commit message to your repository (we will monitor every commit)\r - Use HTML, CSS and React to solve this question.\r - Use redux and thunk for dispatching asynchronous actions.\r - Keep the code clean, commented and documented. Maintain feature based coding. (separate action and reducers - feature wise folders ) example : all the action and reducer related to authentication in one folder etc.\r - Use only Chakra UI as CSS Library.\r - You will have to also deploy both JSON server and app.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
